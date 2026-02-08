@@ -41,7 +41,7 @@ Brightness adjustment
 
 🧠 Model Used
 
-Model: YOLOv8 (Ultralytics)
+Model: YOLOv8n (Ultralytics)
 
 Approach: Deep Learning – Object Detection
 
