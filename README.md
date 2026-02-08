@@ -1,3 +1,7 @@
+📸 Screenshot
+
+<img width="1885" height="905" alt="Screenshot 2026-02-07 113204" src="https://github.com/user-attachments/assets/181094b8-903b-4ff3-b593-a77dc928c18a" />
+
 🚆 Railway Track Crack Detection
 
 This project uses YOLOv8 to detect cracks in railway tracks from images.
@@ -53,7 +57,5 @@ Crack detection on railway tracks
 
 Visual bounding boxes on detected cracks
 
-📸 Screenshot
 
-<img width="1885" height="905" alt="Screenshot 2026-02-07 113204" src="https://github.com/user-attachments/assets/181094b8-903b-4ff3-b593-a77dc928c18a" />
 
