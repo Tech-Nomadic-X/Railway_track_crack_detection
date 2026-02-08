@@ -4,14 +4,14 @@
 
 🚆 Railway Track Crack Detection
 
-This project uses YOLOv8 to detect cracks in railway tracks from images.
-A simple web interface allows users to upload an image and view detection results.
+A computer vision–based deep learning project that detects cracks in railway tracks using YOLOv8.
+The system allows users to upload railway track images through a simple web interface and receive real-time crack detection results.
 
 📊 Dataset Details
 
 Source: Roboflow
 
-Dataset Type: Image dataset
+Dataset Type: Image Dataset
 
 Annotation Format: YOLO
 
@@ -19,15 +19,17 @@ Number of Classes: 1
 
 Crack
 
-Image Content:
+🖼️ Image Characteristics
 
 Real railway track images
 
-Different lighting conditions and angles
+Multiple lighting conditions
 
-Visible crack patterns
+Different camera angles
 
-Augmentation:
+Visible crack patterns on tracks
+
+🔄 Data Augmentation
 
 Rotation
 
@@ -35,9 +37,8 @@ Scaling
 
 Brightness adjustment
 
-🔗 Dataset Link (replace with yours):
-
-[Dataset](https://universe.roboflow.com/thesis-group/railway-crack-detection)
+🔗 Dataset Link:
+👉 Railway Crack Detection Dataset (Roboflow)
 
 🧠 Model Used
 
@@ -45,17 +46,36 @@ Model: YOLOv8n (Ultralytics)
 
 Approach: Deep Learning – Object Detection
 
-Output: Bounding boxes around cracks with confidence scores
+Framework: Ultralytics YOLOv8
+
+Output:
+
+Bounding boxes around detected cracks
+
+Confidence score for each detection
 
 🖥️ Application Interface
 
-The application provides:
+The web application provides:
 
-Image upload option
+📤 Image upload functionality
 
-Crack detection on railway tracks
+🧠 Automated crack detection
 
-Visual bounding boxes on detected cracks
+📦 Visual bounding boxes on detected cracks
 
+⚡ Fast and interactive inference
 
+Deployed using Gradio and hosted on Hugging Face Spaces.
 
+🚀 Key Highlights
+
+End-to-end deep learning pipeline
+
+Real-world railway safety use case
+
+Roboflow dataset integration
+
+YOLOv8 object detection
+
+Hugging Face deployment
